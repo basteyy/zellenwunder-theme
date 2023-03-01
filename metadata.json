@@ -1,0 +1,10 @@
+{
+	"author": "basteyy",
+	"email": "",
+	"website": "https://www.zellenwunder.de",
+	"version": "1.0.0",
+	"releaseDate": "2022-03-01",
+	"license": "MIT",
+	"compatible": "4.0.0",
+	"notes": "A theme for a info blog (like zellenwunder.de)"
+}
